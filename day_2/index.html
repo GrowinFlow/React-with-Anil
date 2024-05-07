@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day -2</title>
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+</head>
+<body style="background: black; color: aliceblue;">
+
+
+    <div id="myDiv">
+        Hello React
+    </div>
+
+
+    <script type="text/babel">
+
+    
+        function Btn(){
+            const xyz=()=>alert("Hello I'm alert")
+            return <button onClick={xyz} > Click me</button>
+        }
+
+
+
+
+
+        class Hello extends React.Component{
+            render()
+            {
+                return <div>Hello React with CDN <Btn /> </div>
+            }
+        }
+        ReactDOM.render(<Hello />, document.getElementById('myDiv'))
+
+    </script>
+    
+</body>
+</html>
