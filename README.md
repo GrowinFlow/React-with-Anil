@@ -10,3 +10,6 @@
 
 ### Day 03 
 * (React js Environment up with Ubuntu) `8-May-2024`  _✅_
+
+### Day 04
+* (React js Environment up with windows) `8-May-2024`  _✅_
