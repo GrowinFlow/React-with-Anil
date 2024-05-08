@@ -23,3 +23,9 @@
  * How to use CDN.
  * Make first component.
  * Quiz/ Question `Why use npm?`
+
+ ## Quiz: `Why use npm?`
+
+ `npm =>  'Node pakage manager',`
+
+ `npm humay offline kam krny ky ma help krta hy, ya sary pakages ko download kr ky humy dydyta hyy, jis sy humy 1 environment ml jata hy,.... CDN api ke trha hota hy hum osy online he use kr skty hyan.`
