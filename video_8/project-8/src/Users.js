@@ -1,8 +1,11 @@
+import UserIcon from "./UserIcon";
+
 function Users() {
     function User() {
         return (
             <div>
-                <code >this is code</code>
+                <UserIcon />
+                
             </div>
         )
     }
