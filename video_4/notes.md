@@ -55,12 +55,15 @@
 ## Previous Quesion:
 ## Why use npm?
 
-`jb hum production ky le a npm sy app build krty hayn to , npm humary code ko 1 file ma convert kr dyta hy jis sy , humari file secure and fast ho jati hy,`
+* `jb hum production ky le a npm sy app build krty hayn to , npm humary code ko 1 file ma convert kr dyta hy jis sy , humari file secure and fast ho jati hy,`
 
-     npm install [pakage-name]
+        npm install [pakage-name]
+
+>    * `Correct my Ans`
 
 ## 
 ## New quiz
-* Kya npm ka lternate hy?
+##
+## Kya npm ka alternate hy?
 
 `Ans: yes, Java, C#, ruby on rail, python , .net, core`
