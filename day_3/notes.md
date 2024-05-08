@@ -2,11 +2,11 @@
 
 ## React js Environment up with Ubuntu
 
-* Install Node and npm ✅
-* Install VS code editor / e.t.c ✅
+* Install Node and npm _✅_
+* Install VS code editor / e.t.c _✅_
 * Install CRA ✅
-* New Quiz ❌
-* Previous Quiz answer ❌
+* New Quiz _❌_
+* Previous Quiz answer _❌_
 
 ## Node & npm download (latest ) ✅
 * `2 links: downloads, use anyone`
