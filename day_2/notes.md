@@ -24,7 +24,7 @@
  * Make first component.
  * Quiz/ Question `Why use npm?`
 
- ## Quiz: `Why use npm?`
+ ## Quiz: `Why use npm?` _✅_
 
  `npm =>  'Node pakage manager',`
 

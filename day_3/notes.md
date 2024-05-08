@@ -45,3 +45,10 @@
 * `After complete insatll react app, run cmd`
 
          npm start
+
+
+## Learn Today
+
+* `Install node`
+* `Install VS code`
+* `Create a first react app [day03]`
