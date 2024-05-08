@@ -22,8 +22,8 @@
 
 * `npm auto install, check version`
 
-         node --version
-         npm --version
+         node -v
+         npm -v
 
 ## Download VS code ✅
 * `Link`
@@ -52,3 +52,7 @@
 * `Install node`
 * `Install VS code`
 * `Create a first react app [day03]`
+
+##
+## New quiz 
+`next day`
