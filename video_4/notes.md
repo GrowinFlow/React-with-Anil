@@ -4,11 +4,11 @@
 
 * Install Node and npm _✅_
 * Install VS code editor / e.t.c _✅_
-* Install CRA ✅
-* New Quiz _❌_
-* Previous Quiz answer _❌_
+* Install CRA  _✅_
+* New Quiz  _✅_
+* Previous Quiz answer  _✅_
 
-## Node & npm download (latest ) ✅
+## Node & npm download (latest )  _✅_
 * `2 links: downloads, use anyone`
 
          https://nodejs.org/en/download
@@ -53,7 +53,7 @@
 
 ##
 ## Previous Quesion:
-## What is npm?
+## Why use npm?
 
 `jb hum production ky le a npm sy app build krty hayn to , npm humary code ko 1 file ma convert kr dyta hy jis sy , humari file secure and fast ho jati hy,`
 
