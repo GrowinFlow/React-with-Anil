@@ -63,4 +63,4 @@
 ## New quiz
 * Kya npm ka lternate hy?
 
-`Ans: G, ruby on rail, python , .net, core`
+`Ans: yes, Java, C#, ruby on rail, python , .net, core`
