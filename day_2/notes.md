@@ -1,13 +1,13 @@
         https://www.youtube.com/watch?v=xmoiyb05eOQ&list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM&index=2
 
-## React without Installation
+## React without Installation _✅_
 
 * react generally used with npm
 *  use CDN
 * Make Example with React CDN
 * Interview Question
 
-## Use CDN
+## Use CDN _✅_
 * Open 1 folder in  VScode / code editor , and make file"
 
         index.html

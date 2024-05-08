@@ -1,6 +1,6 @@
     https://www.youtube.com/watch?v=9Tz2tY-ZEwQ&list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM&t=81s
  
-  ## What is `React`?
+  ## What is `React`? _✅_
 
 `1:  react JS ke library hy, and angulr framework hy.`  
 
@@ -34,7 +34,7 @@
 
   `4: Mobile application with React-Native`
 
-## History & Version 
+## History & Version  _✅_
   `1: Maintained by Facebook.`
 
   `2: First release on 29 May 2013`
@@ -51,12 +51,12 @@
        4: Instagram,
           e.t.c
 
-## Learn React requirments:
+## Learn React requirments: _✅_
     * HTML5, CSS3, JavaScript (ES6)
     * ES6 understanding
     * This course cover all things
 
-## Topic and cover react 
+## Topic and cover react  _✅_
   
       *   React setup & installation
       *   React basic
