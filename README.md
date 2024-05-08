@@ -9,20 +9,24 @@
 
 
 ### Video 03 
-* (React js Environment up with Ubuntu) `8-May-2024`  _✅_
+* (React JsEnvironment up with Ubuntu) `8-May-2024`  _✅_
 
 ### Video 04
-* (React js Environment up with windows) `8-May-2024`  _✅_
+* (React JsEnvironment up with windows) `8-May-2024`  _✅_
 
 ### Video 05
-* (react in make first file & write Hello program) `8-May-2024`  _✅_
+* (React in make first file & write Hello program) `8-May-2024`  _✅_
 
 ### Video 06
-* (react in file & folder structure) `8-May-2024`  _✅_
+* (React in file & folder structure) `8-May-2024`  _✅_
 
 
 ### Video 07
 * (`package.json` details, add package, remove package, custom command ) `8-May-2024`  _✅_
+
+
+### Video 08
+* (Componets,Types of component, Use functional component & nested component, component export & import ) `8-May-2024`  _✅_
 
 
 
