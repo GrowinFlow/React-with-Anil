@@ -26,6 +26,6 @@
 
  ## Quiz: `Why use npm?` _✅_
 
- `npm =>  'Node pakage manager',`
+ `npm =>  'Node package manager',`
 
- `npm humay offline kam krny ky ma help krta hy, ya sary pakages ko download kr ky humy dydyta hyy, jis sy humy 1 environment ml jata hy,.... CDN api ke trha hota hy hum osy online he use kr skty hyan.`
+ `npm humay offline kam krny ky ma help krta hy, ya sary packages ko download kr ky humy dydyta hyy, jis sy humy 1 environment ml jata hy,.... CDN api ke trha hota hy hum osy online he use kr skty hyan.`

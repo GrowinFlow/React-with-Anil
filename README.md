@@ -16,3 +16,13 @@
 
 ### Video 05
 * (react in make first file & write Hello program) `8-May-2024`  _✅_
+
+### Video 06
+* (react in file & folder structure) `8-May-2024`  _✅_
+
+
+### Video 07
+* (`package.json` details, add package, remove package, custom command ) `8-May-2024`  _✅_
+
+
+

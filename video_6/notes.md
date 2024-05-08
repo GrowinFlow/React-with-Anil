@@ -15,13 +15,13 @@
 
 * `project-6 - [app-name]`
 
-    * `pakage.json`
-       * `pakage.json` `is ma file / project ka name, all cehzon ke version, commands and Hm ny jtny pkg daal rkhy hyan os sb ke detail, app production ky le a ready hy ya nhi, e.t.c.`
-       * `pakage.json` `humry app ke details rkhti hy.`
+    * `package.json`
+       * `package.json` `is ma file / project ka name, all cehzon ke version, commands and Hm ny jtny pkg daal rkhy hyan os sb ke detail, app production ky le a ready hy ya nhi, e.t.c.`
+       * `package.json` `humry app ke details rkhti hy.`
 
-    * `pakage-lock.json`
-        * `pakage-lock.json` ` is ma sary pakages ke history, version, pakages ke detail (kahan ssy install howy, integration -key, dependencies).`
-        * `pakage-lock.json` `hury node modules ke details rkhti hy.`
+    * `package-lock.json`
+        * `package-lock.json` ` is ma sary packages ke history, version, packages ke detail (kahan ssy install howy, integration -key, dependencies).`
+        * `package-lock.json` `hury node modules ke details rkhti hy.`
 
     * `.gitignore`
         * `.gitignore` `is ka react sy koi taalt nhi hota.`
@@ -82,7 +82,7 @@
             * `rebort.txt` `ya search engine / seo ky le ahoti hy, is ka react sy koi lyna dyna nhi hy`
 
     * `node_modules`
-        * `node_modules` `is ma sary modules / pakages hoty hyan`
+        * `node_modules` `is ma sary modules / packages hoty hyan`
         `is ma koi kam nhi krty qu k jb hum (npm start) krty hyan to node wal folder domara bnta hy`
 
     * `build`
@@ -98,15 +98,15 @@
 ## React version find in project?
 Ans: 
 
- * `current version` `18.3.1` `, find in pakage-lock.json (line:14)`
- * `current version` `18.3.1` `, find in pakage.json (line:9)`
+ * `current version` `18.3.1` `, find in package-lock.json (line:14)`
+ * `current version` `18.3.1` `, find in package.json (line:9)`
 
  >    * `Correct my Ans`
 
 
 ## New Quiz
 ## most important files
-Ans `pakage.json, pakage-lock.json`
+Ans `package.json, package-lock.json`
 
 ## Jb hum github pr code push krty hyan to node_modules ko upload/ push qu nhi krty , jb koi or use krna chahy ga to kysy use kry ga?
 Ans: `is ma Thousands ky hesaab sy files and filders hoty hayn, jis wajy sy ya boht jga layti hy, github pr push krny sy boht zyada space lgti hy jis ke wja sy github humy bloack b kr skta hy,`

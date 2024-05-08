@@ -52,6 +52,6 @@
  ## `React ka current version kya hy, find in react project?`
 
  Ans:
- * `current version` `18.3.1` `, find in pakage-lock.json (line:14)`
- * `current version` `18.3.1` `, find in pakage.json (line:9)`
+ * `current version` `18.3.1` `, find in package-lock.json (line:14)`
+ * `current version` `18.3.1` `, find in package.json (line:9)`
 
