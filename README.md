@@ -28,5 +28,8 @@
 ### Video 08
 * (Componets,Types of component, Use functional component & nested component, component export & import ) `8-May-2024`  _✅_
 
+### Video 08
+* (Componets,Types of component, Use class component & nested component, component export & import ) `9-May-2024`  _✅_
+
 
 
