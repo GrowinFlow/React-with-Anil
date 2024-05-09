@@ -1,0 +1,16 @@
+div{
+    padding: 10px;
+}
+
+ul,
+li {
+    border: 2px solid black;
+    font-weight: 700;
+    text-align: start;
+    padding: 16px 4px;
+    list-style: none;
+}
+li:nth-child(even){
+    background: #2e2e2e;
+    color: #fff;
+}

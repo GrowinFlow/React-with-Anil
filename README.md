@@ -45,6 +45,9 @@
 ### Video 13
 * (useState with class Component, What is state, How functional component to class component convert, use this.state, Change state with Button ) `9-May-2024`  _✅_
 
+### Video 14
+* (What are props, Example with functional compnent, why props, use props, Use props with Button ) `9-May-2024`  _✅_
+
 
 
 
