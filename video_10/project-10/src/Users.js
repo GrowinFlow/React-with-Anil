@@ -1,12 +1,9 @@
-import React,{Component} from 'react'
+import React from 'react'
 
-class Users extends Component {
-    render() {
-        return(
+export default function Users() {
 
-            <h1>Hello I'm Class component</h1>
-        )
-    }
+  return (
+    <div>Users {2 +8 * 7}</div>
+  )
 }
 
-export default Users;
