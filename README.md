@@ -11,10 +11,10 @@
 
 
 ### Video 03 
-* (React JsEnvironment up with Ubuntu) `8-May-2024`  _✅_
+* (React Js Environment up with Ubuntu) `8-May-2024`  _✅_
 
 ### Video 04
-* (React JsEnvironment up with windows) `8-May-2024`  _✅_
+* (React Js Environment up with windows) `8-May-2024`  _✅_
 
 ### Video 05
 * (React in make first file & write Hello program) `8-May-2024`  _✅_
@@ -24,17 +24,17 @@
 
 
 ### Video 07
-* (`package.json` details, add package, remove package, custom command ) `8-May-2024`  _✅_
+* (`package.json` details, add packages, remove packages, custom commands ) `8-May-2024`  _✅_
 
 
 ### Video 08
-* (Componets,Types of component, Use functional component & nested component, component export & import ) `8-May-2024`  _✅_
+* (Components,Types of component, Use functional component & nested component, component export & import ) `8-May-2024`  _✅_
 
 ### Video 09
 * (Componets,Types of component, Use class component & nested component, component export & import ) `9-May-2024`  _✅_
 
 ### Video 10
-* (JSX, how to use, React JSX, Quiz ) `9-May-2024`  _✅_
+* (JSX, How to use, React JSX ) `9-May-2024`  _✅_
 
 ### Video 11
 * (Make Click event, Call function in Btn, Use variable in function component ) `9-May-2024`  _✅_
