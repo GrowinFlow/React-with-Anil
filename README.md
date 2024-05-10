@@ -51,6 +51,9 @@
 ### Video 15
 * (What are props, Example with class compnoent, why props, use props, Use props with Button ) `10-May-2024`  _✅_
 
+### Video 16
+* (Make function and get value, Make function and state, Give value on Button Click) `10-May-2024`  _✅_
+
 
 
 
