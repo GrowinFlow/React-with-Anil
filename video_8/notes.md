@@ -110,7 +110,48 @@
             )
          }
 
+# ------------------------
+### `export & import 2 type:`
 
+* `School.js` `1`
+
+            function School(){
+                return(
+                    HTML
+                )
+            }
+            export default School;
+* `App.js`
+ 
+        import School from './School.js';
+
+         <School /> 
+        <School> </School>
+
+* `Schools.js` `2`
+
+            export function Student(){
+                return(
+                    HTML
+                )
+            }
+
+            export function Teacher(){
+                return(
+                    HTML
+                )
+            }
+
+* `App.js`
+ 
+        import {Student, Teacher} from './School.js';
+
+         <Teacher /> 
+        <Student> </Student>
+
+
+# ------------------------
+##
 `agr hum ksi component ko ksi jga import nhi krna chaty to hum os ko export he nhi kryn gy`
 
 

@@ -33,6 +33,50 @@
   * `e.t.c. and more`
 
 ## Use Class Component:
+* `create class component`
+    * `1`
+        * `import react`
+
+                import React from 'react'
+
+        * `create class, add class name and extend`
+
+                class App extends React.Component{
+
+                }
+                export default App;
+
+    * `2`
+        * `import react, {Component}`
+
+                import React, {Component} from 'react'
+
+        * `create class, add class name and extend`
+
+                class App extends Component{
+
+                }
+                export default App;
+
+
+* `render & return`
+     
+                import React, {Component} from 'react'
+                class App extends Component{
+                    render() {
+                        JS
+                        return(
+                            HTML
+                        )
+
+                    }
+
+                }
+                export default App;
+
+
+
+
 `create`
 * `Users.js`
 `correct`
@@ -174,6 +218,56 @@
         export default App;
   
  
+# ------------------------
+### `export & import 2 type:`
+
+* `School.js` `1`
+
+            import React from 'react';
+            class School extends React.Component {
+                render(){
+                    JS
+                return(
+                    HTML
+                )
+            }
+            export default School;
+* `App.js`
+ 
+        import School from './School.js';
+
+         <School /> 
+        <School> </School>
+
+* `Schools.js` `2`
+
+            import React, {Component} from 'react';
+            export class Student extends Compom]nent {
+                render(){
+                    JS
+                return(
+                    HTML
+                )
+            }
+
+            export class Teacher extends Compom]nent {
+                render(){
+                    JS
+                return(
+                    HTML
+                )
+            }
+
+
+* `App.js`
+ 
+        import {Student, Teacher} from './School.js';
+
+         <Teacher /> 
+        <Student> </Student>
+
+
+# ------------------------
 
 `agr hum ksi component ko ksi jga import nhi krna chaty to hum os ko export he nhi kryn gy`
 
