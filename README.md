@@ -66,4 +66,7 @@
 ### Video 20
 * (Make Component, Make HTML Form, Define States, Apply Validations, Stop form submation) `10-May-2024`  _✅_
 
+### Video 21
+* (Pass Function as Props, function in parent component & use in child component, Why use function as a props?) `10-May-2024`  _✅_
+
 
