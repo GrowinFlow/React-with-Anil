@@ -60,4 +60,7 @@
 ### Video 18
 * (Make HTML Form, Add some feild, Use state for feild data, Submit & control form) `10-May-2024`  _✅_
 
+### Video 19
+* (Make Component, Use state, Not Recommended way for condition, Correct way condition, ternary operator) `10-May-2024`  _✅_
+
 
