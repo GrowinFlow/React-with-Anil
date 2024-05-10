@@ -49,7 +49,7 @@
 * (What are props, Example with functional component, why props, use props, Use props with Button ) `9-May-2024`  _✅_
 
 ### Video 15
-* (What are props, Example with class compnoent, why props, use props, Use props with Button ) `9-May-2024`  _✅_
+* (What are props, Example with class compnoent, why props, use props, Use props with Button ) `10-May-2024`  _✅_
 
 
 
