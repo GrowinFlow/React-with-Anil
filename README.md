@@ -69,4 +69,7 @@
 ### Video 21
 * (Pass Function as Props, function in parent component & use in child component, Why use function as a props?) `10-May-2024`  _✅_
 
+### Video 22
+* (React lifecycle overview, Lifecycle phases, When apply) `10-May-2024`  _✅_
+
 
