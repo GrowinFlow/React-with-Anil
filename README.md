@@ -63,4 +63,7 @@
 ### Video 19
 * (Make Component, Use state, Not Recommended way for condition, Correct way condition, ternary operator) `10-May-2024`  _✅_
 
+### Video 20
+* (Make Component, Make HTML Form, Define States, Apply Validations, Stop form submation) `10-May-2024`  _✅_
+
 
