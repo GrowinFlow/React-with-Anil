@@ -72,4 +72,8 @@
 ### Video 22
 * (React lifecycle overview, Lifecycle phases, When apply) `10-May-2024`  _✅_
 
+### Video 23
+* (Constructor Life Cycle Method, What we can do in this life cycle method) `12-May-2024`  _✅_
 
+### Video 24
+* (Render, Life Cycle Method, Use state and props with render) `12-May-2024`  _✅_
