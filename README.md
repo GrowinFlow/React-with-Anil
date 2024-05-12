@@ -77,3 +77,6 @@
 
 ### Video 24
 * (Render, Life Cycle Method, Use state and props with render) `12-May-2024`  _✅_
+
+### Video 25
+* (5W's  ComoponentDidMount, Use of ComoponentDidMount method) `12-May-2024`  _✅_
