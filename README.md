@@ -83,3 +83,6 @@
 
 ### Video 26
 * (5W's  ComoponentDidUpdate, Use of ComoponentDidUpdate method) `13-May-2024`  _✅_
+
+### Video 27
+* (5W's shouldComoponentUpdate, Use of shouldComoponentUpdate method) `13-May-2024`  _✅_
