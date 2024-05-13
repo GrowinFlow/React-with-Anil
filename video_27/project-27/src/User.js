@@ -9,26 +9,31 @@ class User extends Component {
     }
     console.log("constructor -------------constructor")
   }
+  componentDidUpdate(){
+    console.log("componentDidUpdate-------------componentDidUpdate")
+    
+  }
 
-  componentDidUpdate(preProps, preState, snapshot){
-    console.log("componentDidUpdate------componentDidUpdate", preState.counter, this.state.counter)
-  //   if(preState.counter === this.state.counter){
-  //     alert("data is already same")
-  //  }
-   if(this.state.counter<10){
-    this.setState({counter:this.state.counter+1})
-   }
-   console.log("This is snapshot", snapshot)
- }
+  shouldComponentUpdate(){ 
+    console.warn("shouldcomponentUpdate-----------------shouldcomponentUpdate", this.state.counter)
+    // if(this.state.counter>5 && this .state.counter<10){
+    //   return true;
+    // }
+    // return false;
+    if(this.state.counter<10){
+      return true;
+    }
+  }
+
 
   render() {
     console.log("render ------------ render")
     return (
       <div>
-        <h1>User component <br /> --   componentDidUpdate --</h1>
+        <h1>User component <br /> --   shouldcomponentUpdate --</h1>
 
         <h1>This is counter:   {this.state.counter}!</h1>
-        <button onClick={()=>{this.setState({counter:1})}}>Update counter</button>
+        <button onClick={()=>{this.setState({counter:this.state.counter+1})}}>Update counter</button>
        </div>
     )
   }
