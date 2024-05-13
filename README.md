@@ -80,3 +80,6 @@
 
 ### Video 25
 * (5W's  ComoponentDidMount, Use of ComoponentDidMount method) `12-May-2024`  _✅_
+
+### Video 26
+* (5W's  ComoponentDidUpdate, Use of ComoponentDidUpdate method) `13-May-2024`  _✅_
