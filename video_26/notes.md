@@ -18,7 +18,7 @@
        life-cycle.png
 
 ## Why use?
-`is ka use api ma iss le a hota hy ky agr koi ches render ma hy to wo re-load /render hoti hy -agr ap render ma hoge to bar bar load hony sy client request yda jany sy server down ho jay ga , agr construtor ma ho ge to HTML sy phly he call ho jay ke is le a`
+`is ka use hum state, props ko update krwany ky le a kr ty h a`
 
          componentDidUpdate(){
            console.log("componentDidUpdate------componentDidUpdate")
