@@ -1,7 +1,7 @@
         https://www.youtube.com/watch?v=xPiph9AYYRw&list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM&index=27
 
 
-## ComoponentDidUpdate, Life Cycle Method
+## ComponentDidUpdate, Life Cycle Method
 #### 5W's 
 * Why use ComoponentDidUpdate?
 * Use of ComoponentDidUpdate method

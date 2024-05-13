@@ -1,7 +1,7 @@
          https://www.youtube.com/watch?v=BCslNEYCRXc&list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM&index=25
 
 
-## ComoponentDidMount, Life Cycle Method
+## ComponentDidMount, Life Cycle Method
 #### 5W's 
 * Why use ComoponentDidMount?
 * Use of ComoponentDidMount method

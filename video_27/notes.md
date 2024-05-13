@@ -1,13 +1,11 @@
         https://www.youtube.com/watch?v=xPiph9AYYRw&list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM&index=27
 
 
-## ComoponentDidUpdate, Life Cycle Method
+##  shouldcomponentUpdate(), Life Cycle Method
 #### 5W's 
-* Why use ComoponentDidUpdate?
-* Use of ComoponentDidUpdate method
-* Make class component
-* Use with of state and props
-* Previous Props and State
+* When shouldComoponentDidUpdate called and use?
+* It can stop rendering
+* Use with state and props
 * New Quiz
 * Previous Quiz
 
@@ -18,16 +16,18 @@
        life-cycle.png
 
 ## Why use?
-`is ka use api ma iss le a hota hy ky agr koi ches render ma hy to wo re-load /render hoti hy -agr ap render ma hoge to bar bar load hony sy client request yda jany sy server down ho jay ga , agr construtor ma ho ge to HTML sy phly he call ho jay ke is le a`
+`shouldcomponentUpdate() Update waly step ma ata hy`,
+`is ka use ksi b step ko STOP krny ky le a hota hy, is pr hum condition lga skty hyan`
+`yani hum ksi b state ke rendrering rook skty hyan`
 
          shouldcomponentUpdate(){
            console.log("shouldcomponentUpdate------shouldcomponentUpdate")
          }
-`iss trha constructor DidUpdate ma use kry gy`
+`iss trha constructorDidUpdate ma use kry gy`
 
 
 ## shouldcomponentUpdate() kb cly ga ?
-* ``
+* `Jb b k6h update hoga ya cly ga`
 
 
 
